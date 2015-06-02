@@ -16,7 +16,7 @@ class bcolors:
     BOLD = '\033[1m'
     UNDERLINE = '\033[4m'
 
-class niki(common.AbstractWindowsCommand):
+class processcheck(common.AbstractWindowsCommand):
     """experimental plugin alpha"""
 
     def __init__(self,config, *args, **kwargs):
@@ -71,28 +71,6 @@ class niki(common.AbstractWindowsCommand):
             pickle.dump(items, fp)
         
         
-        
-        #paras = ( "This was a fantastic list.", "And now for something completely different." )
-        #page = markup.page()
-        #page.init( title="Results of scan", 
-        #               css=( '/Users/Lunde/volatility_plugins/results.html/one.css', 'one.css' ), 
-        #               header="Niki Workflow Overview", 
-        #               footer="The bitter end." )
-        #
-        #page.ul( class_='mylist', id_='mylist')
-        #page.li(items, class_='myitems',  )
-        #page.ul.close( )
-        #
-        #page.ul( class_='myoffsets', id_='myoffsets')
-        #page.li( offsets, class_='myoffsets')
-        #page.ul.close( )
-        #
-        #page.p( paras )
-        ##page.img( src=images, width=100, height=80, alt="Thumbnails" )
-        #webpage = open('/Users/Lunde/volatility_plugins/results.html', 'w+')
-        #webpage.write(str(page))
-        #webpage.close()
-        #        
         
         
         

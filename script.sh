@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "Starting Data Collection"
 echo "Infected Image: "$1 " --- Baseline: " $2 " --- Options: " $3
-/Users/Lunde/Downloads/volatility_2.4.mac.standalone/./volatility_2.4_x64 --plugins=/Users/Lunde/volatility_plugins/ -f /Users/Lunde/Desktop/VMs/Windows\ XP\ Professional.vmwarevm/Windows\ XP\ Professional-Snapshot$1.vmem --profile=WinXPSP3x86 ariel &&
+/Users/Lunde/Downloads/volatility_2.4.mac.standalone/./volatility_2.4_x64 --plugins=/Users/Lunde/volatility_plugins/ -f /Users/Lunde/Desktop/VMs/Windows\ XP\ Professional.vmwarevm/Windows\ XP\ Professional-Snapshot$1.vmem --profile=WinXPSP3x86 dllcheck &&
 /Users/Lunde/Downloads/volatility_2.4.mac.standalone/./volatility_2.4_x64 --plugins=/Users/Lunde/volatility_plugins/ -f /Users/Lunde/Desktop/VMs/Windows\ XP\ Professional.vmwarevm/Windows\ XP\ Professional-Snapshot$1.vmem --profile=WinXPSP3x86 regcheck &&
 /Users/Lunde/Downloads/volatility_2.4.mac.standalone/./volatility_2.4_x64 --plugins=/Users/Lunde/volatility_plugins/ -f /Users/Lunde/Desktop/VMs/Windows\ XP\ Professional.vmwarevm/Windows\ XP\ Professional-Snapshot$1.vmem --profile=WinXPSP3x86 servicecheck &&
 /Users/Lunde/Downloads/volatility_2.4.mac.standalone/./volatility_2.4_x64 --plugins=/Users/Lunde/volatility_plugins/ -f /Users/Lunde/Desktop/VMs/Windows\ XP\ Professional.vmwarevm/Windows\ XP\ Professional-Snapshot$1.vmem --profile=WinXPSP3x86 drivercheck &&

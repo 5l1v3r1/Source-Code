@@ -14,7 +14,7 @@ import cPickle as pickle
 
 
 
-class ariel(common.AbstractWindowsCommand):
+class dllcheck(common.AbstractWindowsCommand):
 
 # This plugis collects all loaded DLLs and store them as a dict-datatype 
 # on disk. This is a subsystem for the DLLCOMPARE function.
