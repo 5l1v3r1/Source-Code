@@ -1,0 +1,6 @@
+C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted
+C:\Windows\System32\svchost.exe -k secsvcs
+C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork
+C:\Windows\system32\svchost.exe -k netsvcs
+"C:\Program Files\VMware\VMware Tools\vmtoolsd.exe" -n vmusr
+C:\Windows\system32\svchost.exe -k RPCSS

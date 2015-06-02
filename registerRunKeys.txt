@@ -1,0 +1,61 @@
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\Runonce
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\Run
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Run
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce
+HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\RunOnce
+HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnceEx
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run
+HKLM\Software\Microsoft\Windows\CurrentVersion\RunServices
+HKLM\Wow6432Node\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run
+HKCU\Software\Microsoft\Windows NT\CurrentVersion\Windows\Run
+HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run
+HKCU\Software\Microsoft\Windows\CurrentVersion\Run
+HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce
+HKCU\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\Runonce
+HKCU\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\Run
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\RunServices
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\RunServicesOnce
+HKCU\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Run
+HKCU\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run
+HKCU\Software\Microsoft\Windows NT\CurrentVersion\Windows
+HKCU\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon
+HKLM\System\CurrentControlSet\Services
+HKLM\System\CurrentControlSet\Enum Root
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Userinit
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Shell
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Taskman
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\System
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Notify
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\SpecialAccounts\UserList
+HKLM\SOFTWARE\Microsoft\Active Setup\Installed Components
+HKLM\SOFTWARE\Wow6432Node\Microsoft\Active Setup\Installed Components
+HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\ShellExecuteHooks
+HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\SharedTaskScheduler
+HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\ShellExecuteHooks
+HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects
+HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Drivers32
+HKLM\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Drivers32
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options
+HKLM\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Image File Execution Options
+HKLM\SOFTWARE\Classes\Exefile\Shell\Open\Command\(Default)
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Windows\Appinit_Dlls
+HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Windows\Appinit_Dlls
+HKLM\SOFTWARE\Microsoft\SchedulingAgent
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SvcHost
+HKLM\System\CurrentControlSet\Control\Session Manager\AppCertDlls
+HKLM\SYSTEM\CurrentControlSet\Control\SecurityProviders\SecurityProviders
+HKLM\SYSTEM\CurrentControlSet\Control\Lsa\Authentication Packages
+HKLM\SYSTEM\CurrentControlSet\Control\Lsa\Notification Packages
+HKLM\SYSTEM\CurrentControlSet\Control\Lsa\Security Packages
+HKLM\SYSTEM\ControlSet00.$current.\Control\Session Manager\CWDIllegalInDllSearch
+HKLM\SYSTEM\ControlSet00.$current.\Control\SafeBoot
+HKCU\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Shell
+HKCU\Software\Microsoft\Windows NT\CurrentVersion\Windows\Load
+HKCU\Software\Microsoft\Command Processor\Autorun
+HKCU\Classes\Exefile\Shell\Open\Command\(Default)
+HKLM\Software\Microsoft\Windows\CurrentVersion
+HKCU\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\RUN
+HKEY_CURRENT_USER\SOFTWARE\Microsoft\CTF
